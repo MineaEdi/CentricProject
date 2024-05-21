@@ -17,10 +17,15 @@ namespace CentricAutomationTesting.PageObjectModel
         }
 
         IWebElement welcomeText => driver.FindElement(By.XPath("//span[@class='title']"));
+        IWebElement mainPageText => driver.FindElement(By.XPath("//*[@id=\"login_credentials\"]/h4"));
 
         public string GetWelcomeText()
         {
             return welcomeText.Text;
+        }
+        public string GetMainPageText() 
+        {
+            return mainPageText.Text;
         }
     }
 }

@@ -3,18 +3,19 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 
 namespace CentricAutomationTesting
 {
     [TestClass]
-    public class OkaziiTest
+    public class SauceDemoTest
     {
         private ChromeDriver driver = new ChromeDriver();
 
-        private MenuItemBeforeSignIn menuItemBeforeSignIn;
         private HomePage homePage;
         private LoginPage loginPage;
+        private LogoutPage logoutPage;
 
         [TestInitialize]
         public void TestInitialize()
@@ -25,8 +26,6 @@ namespace CentricAutomationTesting
 
             driver.Manage().Window.Maximize();
             driver.Navigate().GoToUrl("https://saucedemo.com/");
-
-            menuItemBeforeSignIn = new MenuItemBeforeSignIn(driver);
         }
 
         [TestMethod]
@@ -40,6 +39,18 @@ namespace CentricAutomationTesting
             homePage = new HomePage(driver);
 
             Assert.IsTrue(homePage.GetWelcomeText().Contains("Products"));
+        }
+
+        [TestMethod]
+        public void LogOutAccount() 
+        {
+            LogInAccount();
+            logoutPage = new LogoutPage(driver);
+            logoutPage.LogOutOffAccount();
+
+            homePage = new HomePage(driver);
+
+            Assert.IsTrue(homePage.GetMainPageText().Contains("Accepted usernames are:"));
         }
 
         [TestCleanup]
