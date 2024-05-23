@@ -18,6 +18,7 @@ namespace CentricAutomationTesting.PageObjectModel
 
         IWebElement welcomeText => driver.FindElement(By.XPath("//span[@class='title']"));
         IWebElement mainPageText => driver.FindElement(By.XPath("//*[@id=\"login_credentials\"]/h4"));
+        IWebElement finishedOrder => driver.FindElement(By.XPath("//*[@id=\"checkout_complete_container\"]/h2"));
 
         public string GetWelcomeText()
         {
@@ -26,6 +27,10 @@ namespace CentricAutomationTesting.PageObjectModel
         public string GetMainPageText() 
         {
             return mainPageText.Text;
+        }
+        public string GetOrderFinishText()
+        {
+            return finishedOrder.Text;
         }
     }
 }

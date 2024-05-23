@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\saucedemotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:saucedemotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|c:\\users\\minea\\documents\\github\\centricproject\\centricautomationtesting\\pageobjectmodel\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:pageobjectmodel\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|c:\\users\\minea\\documents\\github\\centricproject\\centricautomationtesting\\pageobjectmodel\\logoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:pageobjectmodel\\logoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|c:\\users\\minea\\documents\\github\\centricproject\\centricautomationtesting\\pageobjectmodel\\placeorderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:pageobjectmodel\\placeorderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\pageobjectmodel\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:pageobjectmodel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|c:\\users\\minea\\documents\\github\\centricproject\\centricautomationtesting\\pageobjectmodel\\filteritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:pageobjectmodel\\filteritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\pageobjectmodel\\logoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:pageobjectmodel\\logoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|c:\\users\\minea\\documents\\github\\centricproject\\centricautomationtesting\\saucedemotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:saucedemotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\pageobjectmodel\\placeorderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:pageobjectmodel\\placeorderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\pageobjectmodel\\filteritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|solutionrelative:pageobjectmodel\\filteritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84181602-3A71-4629-9A18-4C3806CD5DA5}|CentricAutomationTesting.csproj|C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\pageobjectmodel\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,13 +46,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderList.cs",
               "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\OrderList.cs",
               "RelativeDocumentMoniker": "PageObjectModel\\OrderList.cs",
               "ToolTip": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\OrderList.cs",
               "RelativeToolTip": "PageObjectModel\\OrderList.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBkAAAAfAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wCcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T07:15:56.931Z",
               "EditorCaption": ""
@@ -60,19 +60,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlaceOrderPage.cs",
-              "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\PlaceOrderPage.cs",
-              "RelativeDocumentMoniker": "PageObjectModel\\PlaceOrderPage.cs",
-              "ToolTip": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\PlaceOrderPage.cs",
-              "RelativeToolTip": "PageObjectModel\\PlaceOrderPage.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\LoginPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\LoginPage.cs",
+              "RelativeToolTip": "PageObjectModel\\LoginPage.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T07:07:15.108Z",
+              "WhenOpened": "2024-05-18T09:12:10.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\HomePage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\HomePage.cs",
+              "ToolTip": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\HomePage.cs",
+              "RelativeToolTip": "PageObjectModel\\HomePage.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:35:26.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FilterItems.cs",
               "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\FilterItems.cs",
               "RelativeDocumentMoniker": "PageObjectModel\\FilterItems.cs",
@@ -80,12 +93,11 @@
               "RelativeToolTip": "PageObjectModel\\FilterItems.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAwBkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T06:55:43.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T06:55:43.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LogoutPage.cs",
               "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\LogoutPage.cs",
               "RelativeDocumentMoniker": "PageObjectModel\\LogoutPage.cs",
@@ -93,34 +105,7 @@
               "RelativeToolTip": "PageObjectModel\\LogoutPage.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T06:27:32.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginPage.cs",
-              "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\LoginPage.cs",
-              "RelativeDocumentMoniker": "PageObjectModel\\LoginPage.cs",
-              "ToolTip": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\LoginPage.cs",
-              "RelativeToolTip": "PageObjectModel\\LoginPage.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:12:10.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomePage.cs",
-              "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\HomePage.cs",
-              "RelativeDocumentMoniker": "PageObjectModel\\HomePage.cs",
-              "ToolTip": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\HomePage.cs",
-              "RelativeToolTip": "PageObjectModel\\HomePage.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:35:26.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T06:27:32.929Z"
             },
             {
               "$type": "Document",
@@ -132,18 +117,35 @@
               "RelativeToolTip": "PageObjectModel\\MenuItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:16:01.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T09:16:01.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "PlaceOrderPage.cs",
+              "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\PlaceOrderPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\PlaceOrderPage.cs",
+              "ToolTip": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\PageObjectModel\\PlaceOrderPage.cs",
+              "RelativeToolTip": "PageObjectModel\\PlaceOrderPage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:07:15.108Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "SauceDemoTest.cs",
               "DocumentMoniker": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\SauceDemoTest.cs",
               "RelativeDocumentMoniker": "SauceDemoTest.cs",
               "ToolTip": "C:\\Users\\minea\\Documents\\GitHub\\CentricProject\\CentricAutomationTesting\\SauceDemoTest.cs",
               "RelativeToolTip": "SauceDemoTest.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAcwA4AAAAAAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T08:32:30.364Z",
               "EditorCaption": ""

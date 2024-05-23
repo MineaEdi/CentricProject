@@ -16,6 +16,7 @@ namespace CentricAutomationTesting
         private HomePage homePage;
         private LoginPage loginPage;
         private LogoutPage logoutPage;
+        private OrderList order;
 
         [TestInitialize]
         public void TestInitialize()
@@ -51,6 +52,23 @@ namespace CentricAutomationTesting
             homePage = new HomePage(driver);
 
             Assert.IsTrue(homePage.GetMainPageText().Contains("Accepted usernames are:"));
+        }
+
+        [TestMethod]
+        public void LogInFullOrder()
+        {
+            LogInAccount();
+            order = new OrderList(driver);
+
+            order.OrderCart();
+
+            order.OrderCheckOut();
+
+            order.FillInfo("Anton", "Beton", "123456");
+
+            homePage = new HomePage(driver);
+
+            Assert.IsTrue(homePage.GetOrderFinishText().Contains("Thank you for your order!"));
         }
 
         [TestCleanup]
