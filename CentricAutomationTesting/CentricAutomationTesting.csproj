@@ -63,6 +63,7 @@
     <Compile Include="PageObjectModel\LogoutPage.cs" />
     <Compile Include="PageObjectModel\OrderList.cs" />
     <Compile Include="PageObjectModel\PlaceOrderPage.cs" />
+    <Compile Include="PageObjectModel\ProductPage.cs" />
     <Compile Include="SauceDemoTest.cs" />
     <Compile Include="PageObjectModel\HomePage.cs" />
     <Compile Include="PageObjectModel\LoginPage.cs" />
